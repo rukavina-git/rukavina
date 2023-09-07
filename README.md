@@ -1,19 +1,6 @@
 ## Hi, I am Ivan Karlo Rukavina! 
 A passionate software engineer from Croatia
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukavina-git&" alt="rukavina-git" /></p>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rukavina-git/rukavina-git/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rukavina-git/rukavina-git/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rukavina-git/rukavina-git/output/github-contribution-grid-snake.svg">
-  </picture>
-## Contact
-<div> 
-  <a href="https://www.linkedin.com/in/rukavina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: ivankarlo.rukavina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
 
- 
  ## Skills
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Erica-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
@@ -36,6 +23,23 @@ A passionate software engineer from Croatia
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-Spring" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukavina-git&" alt="rukavina-git" /></p>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rukavina-git/rukavina-git/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rukavina-git/rukavina-git/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rukavina-git/rukavina-git/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+## Contact
+<div> 
+  <a href="https://www.linkedin.com/in/rukavina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: ivankarlo.rukavina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+
+ 
+
 
 </br>
 
