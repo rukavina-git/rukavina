@@ -33,6 +33,8 @@ A passionate software engineer from Croatia
 
  ## Github stats
  </br>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukavina-git&" alt="rukavina-git" /></p>
+<div style="text-align: center;">
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rukavina-git&" alt="rukavina-git" /></p>
+</div>
 
 
