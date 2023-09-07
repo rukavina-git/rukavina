@@ -1,5 +1,6 @@
 ## Hi, I am Ivan Karlo Rukavina! 
 <h3 align="left">A passionate software engineer from Croatia:</h3>
+</br>
 ## Contact
 <div> 
   <a href="https://www.linkedin.com/in/rukavina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
