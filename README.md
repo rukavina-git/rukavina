@@ -1,4 +1,4 @@
-## Hi, I am Ivan Karlo Rukavina! 
+## Hello, I am Ivan Karlo Rukavina!
 A passionate software engineer from Croatia.
 
 ## Contact
