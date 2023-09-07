@@ -3,7 +3,7 @@ A passionate software engineer from Croatia.
 
 ## Contact
   <a href="https://www.linkedin.com/in/rukavina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: ivankarlo.rukavina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: ivankarlo.rukavina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=e-mail&logoColor=white" target="_blank"></a>
  </br>
 
  ## Skills
