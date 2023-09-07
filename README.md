@@ -1,6 +1,6 @@
 ## Hi, I am Ivan Karlo Rukavina! 
 <h3 align="left">A passionate software engineer from Croatia:</h3>
-How to reach me <a href = "mailto: ivankarlo.rukavina@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" target="_blank"></a>
+How to reach me <a href ="mailto: ivankarlo.rukavina@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="5%" target="_blank"></a>
 </br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rukavina-git/rukavina-git/output/github-contribution-grid-snake-dark.svg">
