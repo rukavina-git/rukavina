@@ -1,5 +1,5 @@
 ## Hi, I am Ivan Karlo Rukavina! 
-#A passionate software engineer from Croatia
+<h3 align="left">A passionate software engineer from Croatia:</h3>
 
 </br>
   <picture>
