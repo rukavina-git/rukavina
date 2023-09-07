@@ -24,7 +24,6 @@
   <img height="40" align="center" alt="Erica-Spring" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
 </div>
 
-  
 </br>
 
 ## Contact 
@@ -36,7 +35,11 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/rukavina-git/rukavina-git/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franecaleta/franecaleta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franecaleta/franecaleta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/franecaleta/franecaleta/output/github-contribution-grid-snake.svg">
+</picture>
  
 </div>
 
