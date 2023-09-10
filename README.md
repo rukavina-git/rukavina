@@ -10,22 +10,23 @@ A passionate software engineer from Croatia.
 <div style="display: inline_block"><br>
   <a href="https://developer.android.com/"><img height="40" align="center" alt="Erica-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <a href="https://www.docker.com/"><img height="40" align="center" alt="Erica-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  <a href="https://firebase.google.com/"><img height="40" align="center" alt="Erica-Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <a href="https://www.java.com/"><img height="40" align="center" alt="Erica-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Kotlin" height="30" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
+  <a href="https://kotlinlang.org/"><img height="40" align="center" alt="Erica-Kotlin" height="30" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <a href="https://www.linux.org/"><img height="40" align="center" alt="Erica-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <a href="https://www.postman.com/"><img height="40" align="center" alt="Erica-Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <a href="https://reactjs.org/"><img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Spring" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <a href="https://spring.io/"><img height="40" align="center" alt="Erica-Spring" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a>
 </div>
+
 </br>
 
  ## Github stats
