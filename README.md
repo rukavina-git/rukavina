@@ -26,11 +26,3 @@ A passionate software engineer from Croatia.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spring.io/"><img height="40" align="center" alt="Erica-Spring" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a>
 </div>
-
-</br>
-
- ## Github stats
- </br>
-<div style="text-align: center;">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rukavina-git&" alt="rukavina-git" /></p>
-</div>
